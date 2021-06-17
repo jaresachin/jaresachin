@@ -5,7 +5,7 @@ I haved done 1 month internship as statistician at Healthminds Pvt Ltd , Bengalo
  gaining some new knowledge on share market.
 
 - 📫 You can reach to me
-    Email ID : Jareschin1@gmail.com
+    Email ID : jareschin1@gmail.com
 
 <!---
 jaresachin/jaresachin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
